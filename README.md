@@ -21,7 +21,9 @@ _____ _____ _____ _____ _____ _____ _____ _____ _____ _____
 | | | |   __|   __|__   |   --|    -|-   -|   __| | | |__   |
 |_|_|_|__|  |__|  |_____|_____|__|__|_____|__|    |_| |_____|
                                                               
-                                           
+## about me
+Visit my website and my discord here:
+https://mfpscripts.com & https://discord.mfpscripts.com
 
 ## Requirements
 - [LB-Phone](https://lbphone.com) [LB-Docs: https://docs.lbphone.com/]
