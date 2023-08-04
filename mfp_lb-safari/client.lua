@@ -8,14 +8,14 @@ CreateThread(function ()
     local function AddApp()
         local added, errorMessage = exports["lb-phone"]:AddCustomApp({
             identifier = identifier,
-            name = "Safari",
-            description = "Explore the web",
-            developer = "MFPSCRIPTS.com",
-            defaultApp = false, -- OPTIONAL if set to true, app should be added without having to download it,
-            size = 1232, -- OPTIONAL in kb
-            price = 0, -- OPTIONAL, Make players pay with in-game money to download the app
+            name = Config.name,
+            description = Config.description,
+            developer = "MFPSCRIPTS.com", -- please leave this, it would be fair for a free script (-;
+            defaultApp = Config.defaultApp, 
+            size = Config.size, 
+            price = Config.price, 
             images = {"https://media.discordapp.net/attachments/1024257655386165338/1133161545271103569/image.png","https://media.discordapp.net/attachments/1024257655386165338/1133161173055983636/image.png","https://media.discordapp.net/attachments/1024257655386165338/1133161982355320922/image.png"}, -- OPTIONAL array of images for the app on the app store
-            ui = GetCurrentResourceName() .. "/ui/index.html", -- this is the path to the HTML file, can also be a URL
+            ui = GetCurrentResourceName() .. "/ui/index.html", 
             icon = "https://cfx-nui-" .. GetCurrentResourceName() .. "/ui/assets/icon.png"
         })
 

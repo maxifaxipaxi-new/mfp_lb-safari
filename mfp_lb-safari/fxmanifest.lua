@@ -4,11 +4,12 @@ game "gta5"
 title "LB Phone - Safari-App"
 description "Integrate your Website / Forum into your phone"
 author "MFPSCRIPTS"
-version '1.0'
+version '1.1'
 
 lua54 'yes'
 
 client_script "client.lua"
+client_script "config.lua"
 
 files {
     "ui/**/*"
@@ -16,5 +17,5 @@ files {
 
 ui_page "ui/index.html"
 
--- visit lb-phone.com for more! --
--- visit lb.mfpscripts.com for more! --
+-- visit lb-phone.com for phone! --
+-- visit lb.mfpscripts.com for addons! --
