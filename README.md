@@ -5,6 +5,8 @@
 
 This is a custom app for the LB-Phone. It works by simply running the script and does not require much knowledge. The function of the app is to display any website on the phone. Here is intentionally no search box, but only the website displayed that the server wants. It is perfect for displaying project websites or a forum. It was created from a template for a custom app. It is only used to extend the RP possibilities and player experience, any content that is against the rules of FiveM or LB-Phone is hereby not guaranteed and not welcome! Use it wisely and enhance the player experience.
 
+![mfp-safariapp-lb](https://github.com/maxifaxipaxi-new/mfp_lb-safari/assets/115405418/b55ecef1-a42e-4e91-adbd-c3f08e9f4845)
+
 > Addon Website: https://lb.mfpscripts.com/
 
 
