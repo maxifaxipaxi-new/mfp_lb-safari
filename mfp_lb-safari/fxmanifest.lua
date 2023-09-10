@@ -8,8 +8,10 @@ version '1.1'
 
 lua54 'yes'
 
-client_script "client.lua"
-client_script "config.lua"
+client_script {
+    'client.lua',
+    'config.lua'
+}
 
 files {
     "ui/**/*"
