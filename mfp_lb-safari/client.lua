@@ -16,7 +16,7 @@ CreateThread(function ()
             price = Config.price, 
             images = {"https://media.discordapp.net/attachments/1024257655386165338/1133161545271103569/image.png","https://media.discordapp.net/attachments/1024257655386165338/1133161173055983636/image.png","https://media.discordapp.net/attachments/1024257655386165338/1133161982355320922/image.png"}, -- OPTIONAL array of images for the app on the app store
             ui = GetCurrentResourceName() .. "/ui/index.html", 
-            icon = "https://cfx-nui-" .. GetCurrentResourceName() .. "/ui/assets/icon.png"
+            icon = "https://cfx-nui-" .. GetCurrentResourceName() .. "/ui/assets/safari.jpg"
         })
 
         if not added then
