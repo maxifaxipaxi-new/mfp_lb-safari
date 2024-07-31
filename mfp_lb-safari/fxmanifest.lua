@@ -4,7 +4,7 @@ game "gta5"
 title "LB Phone - Safari-App"
 description "Integrate your Website / Forum into your phone"
 author "MFPSCRIPTS"
-version '1.1'
+version '1.2'
 
 lua54 'yes'
 
