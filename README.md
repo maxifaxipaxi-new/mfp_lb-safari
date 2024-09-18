@@ -26,4 +26,6 @@ https://mfpscripts.com & https://discord.mfpscripts.com
 - Add this in your `server.cfg`: start mfp_lb_safari
 - Change Website in index.html to your website / forum
 
+UPDATE: We stopped support for this app. Due to some abuse we will not maintain this app anymore. Our other apps still receive ojr support. Join our discord at https://discord.gg/mfp to get support or ask our community to help you.
+
 -- Thats it! --
